@@ -1,3 +1,10 @@
+### download ubuntu iso
+page https://releases.ubuntu.com/21.04/
+direct link https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso
+
+### use guide to write ubuntu iso on installation flash drive
+https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
+
 ### programs to install
 <ol>
   <li>VsCode</li>
