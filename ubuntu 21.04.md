@@ -2,6 +2,11 @@
 page https://releases.ubuntu.com/21.04/
 direct link https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso
 
+### download program  to write ubuntu iso on installation flash driv
+page https://rufus.ie/en/
+direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.exe
+(maybe old version)
+
 ### use guide to write ubuntu iso on installation flash drive
 https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
