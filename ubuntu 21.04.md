@@ -1,3 +1,13 @@
+### programs to install
+<ol>
+  <li>VsCode</li>
+  <li>OBS</li>
+  <li>Ummy (youtube download manager)</li>
+  <li>Telegram</li>
+  <li>Discord</li>
+  <li>PgAdmin</li>
+  <li>Robo3t</li>
+</ol>
 
 ### gnome extenstions works only in forefox then you want to change ubuntu
 
