@@ -8,7 +8,7 @@ https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk
 touch ~/.config/gtk-3.0/gtk.css
 nano ~/.config/gtk-3.0/gtk.css
 put inside this
---------
+```
 headerbar entry,
 headerbar spinbutton,
 headerbar button,
@@ -24,5 +24,5 @@ headerbar {
     margin: 0px; /* same as headerbar side padding for nicer proportions */
     padding: 0px;
   }
--------
+```
 then restart system
