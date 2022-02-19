@@ -7,6 +7,8 @@ page https://rufus.ie/en/
 direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.exe
 (maybe old version)
 
+### remove all unnecessary disks from computer
+
 ### use guide to write ubuntu iso on installation flash drive
 https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
