@@ -7,11 +7,16 @@
   <li>Discord</li>
   <li>PgAdmin</li>
   <li>Robo3t</li>
+  <li>Brave</li>
+  <li>Docker</li>
+  <li>Docker-compose</li>
+  <li>Rust</li>
+  <li>MongoDb</li>
+  <li>Postgresql</li>
+  <li>Firefox (to install gnome extenstions)</li>
+  <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
+  <li>hide top bar gnome extension</li>
 </ol>
-
-### gnome extenstions works only in forefox then you want to change ubuntu
-
-### hide top bar extension
 
 ### make smaller window title ubuntu
 https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars?noredirect=1&lq=1
