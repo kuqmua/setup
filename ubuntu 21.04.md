@@ -128,6 +128,7 @@ choose Alt+Shift
   <li>MongoDb Compass</li>
   <li>Brave</li>
   <li>qBittorrent</li>
+  <li>Anydesk</li>
   <li>Settings</li>
   <li>Gnome Tweaks</li>
   <li>Screenshot tool</li>
