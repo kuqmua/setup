@@ -239,6 +239,8 @@ cargo install cargo-tarpaulin <br/>
 usage: <br/>
 cargo tarpaulin --ignore-tests <br/>
 
+### if there is docker-compose file run it one to enable container autostart
+
 ### add connections to mongodb container inside MongoDb compass
 
 ### add connections to postgresql container inside PgAdmin
