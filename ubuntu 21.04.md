@@ -225,7 +225,7 @@ rustup default nightly <br/>
 rustup update //update every week cause nightly <br/>
 source $HOME/.cargo/env <br/>
 source ~/.profile <br/>
-if there is an error "linker `cc` not found", than try again <br/>
+if there is an error "linker cc not found", than try again <br/>
 sudo apt install build-essential <br/>
 
 ### install cargo expand
