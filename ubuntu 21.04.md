@@ -85,6 +85,7 @@ page https://anydesk.com/en <br/>
 direct link https://anydesk.com/en/downloads/thank-you?dv=deb_64 <br/>
 double click on .deb file
 click install in the opened window
+todo: fix "Remote display server is not supported (e.g. Wayland)" error
 
 ### install curl
 sudo apt install curl
