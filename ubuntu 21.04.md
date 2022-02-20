@@ -28,15 +28,14 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Brave</li>
   <li>VLC</li>
   <li>qBittorrent</li>
-  <li>Docker</li>
-  <li>Docker-compose</li>
-  <li>Rust</li>
-  <li>MongoDb</li>
-  <li>Postgresql</li>
-  <li>Firefox (to install gnome extenstions)</li>
+  <li>Krita</li>
+   <li>Firefox (to install gnome extenstions)</li>
   <li>Gnome shell integration Firefox extenstion</li>
   <li>hide top bar gnome extension</li>
-  <li>Krita</li>
+  <li>curl</li>
+  <li>Rust</li>
+  <li>Docker</li>
+  <li>Docker-compose</li>
 </ol>
 
 ### install VsCode
