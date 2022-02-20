@@ -30,6 +30,8 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
 ### icons size 32
 
+### remove home folder and trash icons from main window
+
 ### programs to install
 <ol>
   <li>VsCode</li>
@@ -48,7 +50,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Firefox (to install gnome extenstions)</li>
   <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
   <li>hide top bar gnome extension</li>
-  <li>Krita</li>
+  <li>Krita (from ubuntu software app)</li>
 </ol>
 
 ### make smaller window title ubuntu
