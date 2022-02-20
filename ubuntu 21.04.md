@@ -48,6 +48,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Firefox (to install gnome extenstions)</li>
   <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
   <li>hide top bar gnome extension</li>
+  <li>Krita</li>
 </ol>
 
 ### make smaller window title ubuntu
