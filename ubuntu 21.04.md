@@ -12,9 +12,7 @@ direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.
 ### use guide to write ubuntu iso on installation flash drive
 https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
-### icons size 32
-
-### remove home folder and trash icons from main window
+### make app bar icons size = 32
 
 ### update and upgrade all packages
 sudo apt update && sudo apt upgrade -y
@@ -56,8 +54,8 @@ from ubuntu software app(telegram-desktop)
 ### install Discord
 page https://discord.com/download </br>
 direct link https://discord.com/api/download?platform=linux&format=deb </br>
-double click on .deb file
-click install in the opened window
+double click on .deb file <br/>
+click install in the opened window <br/>
 
 ### install Krita
 from ubuntu software app
@@ -84,9 +82,9 @@ from ubuntu software app
 ### install Anydesk
 page https://anydesk.com/en <br/>
 direct link https://anydesk.com/en/downloads/thank-you?dv=deb_64 <br/>
-double click on .deb file
-click install in the opened window
-todo: fix "Remote display server is not supported (e.g. Wayland)" error
+double click on .deb file <br/>
+click install in the opened window <br/>
+todo: fix "Remote display server is not supported (e.g. Wayland)" error <br/>
 
 ### install curl
 sudo apt install curl
@@ -99,26 +97,39 @@ if there is no pgadmin icon than reboot computer <br/>
 how to do it with more info (russian) https://ruvds.com/ru/helpcenter/postgresql-pgadmin-ubuntu/ <br/>
 
 ### install MongoDb Compass
-download MongoDb Compase
+download MongoDb Compase <br/>
 page https://www.mongodb.com/try/download/compass  <br/>
 direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb  <br/>
-double click on .deb file
-click install in the opened window
+double click on .deb file <br/>
+click install in the opened window <br/>
 
 ### install Gnome shell integration Firefox extenstion
-open Firefox
-page https://extensions.gnome.org/#
+open Firefox <br/>
+page https://extensions.gnome.org/# <br/>
 
 ### install hide top bar gnome extension
-open Firefox
-put switch to "on" inside  https://extensions.gnome.org/extension/545/hide-top-bar/
+open Firefox <br/>
+put switch to "on" inside  https://extensions.gnome.org/extension/545/hide-top-bar/ <br/>
+
+### remove home folder and trash icons from main window
+open gnome tweaks <br/>
+click on extensions <br/>
+turn on desktop icons <br/>
+click on main desktop - params <br/>
+turn off home folder <br/>
+turn off trash <br/>
+
+### remove animations
+open gnome tweaks <br/>
+click on main settings <br/>
+turn off animations <br/>
 
 ### change keyboard binding for language switch
-open gnome tweaks
-click on keyboard and mouse
-click on additional keyboard settings
-click on switch to different language
-choose Alt+Shift
+open gnome tweaks <br/>
+click on keyboard and mouse <br/>
+click on additional keyboard settings <br/>
+click on switch to different language <br/>
+choose Alt+Shift <br/>
 
 ### sync VsCode settings/extenstion with github account
 
@@ -145,9 +156,9 @@ choose Alt+Shift
 default in settings - default apps
 
 ### how to make apps open on start
-open gnome tweaks
-click on autostart
-add apps
+open gnome tweaks <br/>
+click on autostart <br/>
+add apps <br/>
 
 ### add to autostart in gnome tweaks
 <ol>
@@ -185,19 +196,19 @@ headerbar {
 then restart system
 
 ### install docker on wsl2
-sudo apt-get update
+sudo apt-get update <br/>
 sudo apt-get install \
     apt-transport-https \
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    lsb-release <br/>
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br/>
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
-  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null <br/>
+sudo apt-get update <br/>
+sudo apt-get install docker-ce docker-ce-cli containerd.io <br/>
 
 ### install docker-compose on wsl2
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose <br/>
