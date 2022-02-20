@@ -91,6 +91,8 @@ page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmej
   <li>System monitor</li>
 </ol>
 
+### make Brave default browser by default in settings - default apps
+
 ### how to make apps open on start
 
 ### add to autostart
