@@ -28,6 +28,8 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>System monitor</li>
 </ol>
 
+### icons size 32
+
 ### programs to install
 <ol>
   <li>VsCode</li>
