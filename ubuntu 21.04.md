@@ -92,6 +92,7 @@ page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmej
   <li>PgAdmin</li>
   <li>MongoDb Compass</li>
   <li>Brave</li>
+  <li>qBittorrent</li>
   <li>Settings</li>
   <li>Screenshot tool</li>
   <li>Calculator</li>
