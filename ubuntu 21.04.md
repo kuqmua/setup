@@ -220,6 +220,10 @@ cat ~/.ssh/id_rsa.pub  <br/>
 copy key and add it to github account <br/>
 https://github.com/settings/keys <br/>
 
+### git configuration
+git config --global user.name ""
+git config --global user.email ""
+
 ### install rust
 sudo apt install curl <br/>
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh <br/>
