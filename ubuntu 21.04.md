@@ -205,6 +205,13 @@ sudo chmod +x /usr/local/bin/docker-compose <br/>
 ### install git
 sudo apt install git
 
+### add ssh key
+ssh-keygen -o  <br/>
+eval "$(ssh-agent -s)"  <br/>
+cat ~/.ssh/id_rsa.pub  <br/>
+copy key and add it to github account <br/>
+https://github.com/settings/keys <br/>
+
 ### install rust
 sudo apt install curl <br/>
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh <br/>
