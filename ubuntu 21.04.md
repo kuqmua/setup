@@ -81,13 +81,16 @@ from ubuntu software app
 from ubuntu software app
 
 ### install Anydesk
-
+page https://anydesk.com/en <br/>
+direct link https://anydesk.com/en/downloads/thank-you?dv=deb_64 <br/>
+double click on .deb file
+click install in the opened window
 
 ### install curl
 sudo apt install curl
 
 ### install pgadmin
-curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add  <br/>
+curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add <br/>
 sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'  <br/>
 sudo apt install pgadmin4  <br/>
 link how to do it with more info (russian)
