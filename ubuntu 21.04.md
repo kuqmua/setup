@@ -201,6 +201,20 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose <br/>
 sudo chmod +x /usr/local/bin/docker-compose <br/>
 
+### install rust
+sudo apt install curl <br/>
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh <br/>
+sudo apt install build-essential <br/>
+(in the last step choose what to install)
+source $HOME/.cargo/env <br/>
+sudo apt install pkg-config <br/>
+sudo apt-get install pkg-config libssl-dev <br/>
+rustup default nightly <br/>
+(last step is optional)
+rustup update //update every week cause nightly <br/>
+source $HOME/.cargo/env <br/>
+source ~/.profile <br/>
+
 ### install cargo expand
 cargo install cargo-expand
 (for procedural macros dev debug)
