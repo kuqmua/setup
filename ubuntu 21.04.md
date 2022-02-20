@@ -37,7 +37,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>VsCode (from ubuntu software app)</li>
   <li>OBS Studio (from ubuntu software app)</li>
   <li>Ummy (youtube download manager)</li>
-  <li>Telegram</li>
+  <li>Telegram (from ubuntu software app(telegram-desktop))</li>
   <li>Discord</li>
   <li>PgAdmin</li>
   <li>Robo3t</li>
