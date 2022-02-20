@@ -12,22 +12,6 @@ direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.
 ### use guide to write ubuntu iso on installation flash drive
 https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
-### add to favorites
-<ol>
-  <li>VsCode</li>
-  <li>OBS</li>
-  <li>Telegram</li>
-  <li>Discord</li>
-  <li>PgAdmin</li>
-  <li>Robo3t</li>
-  <li>Brave</li>
-  <li>Settings</li>
-  <li>Screenshot tool</li>
-  <li>Calculator</li>
-  <li>Terminal</li>
-  <li>System monitor</li>
-</ol>
-
 ### icons size 32
 
 ### remove home folder and trash icons from main window
@@ -51,6 +35,22 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
   <li>hide top bar gnome extension</li>
   <li>Krita (from ubuntu software app)</li>
+</ol>
+
+### add to favorites
+<ol>
+  <li>VsCode</li>
+  <li>OBS</li>
+  <li>Telegram</li>
+  <li>Discord</li>
+  <li>PgAdmin</li>
+  <li>Robo3t</li>
+  <li>Brave</li>
+  <li>Settings</li>
+  <li>Screenshot tool</li>
+  <li>Calculator</li>
+  <li>Terminal</li>
+  <li>System monitor</li>
 </ol>
 
 ### sync brave settings
