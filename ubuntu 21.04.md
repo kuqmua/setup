@@ -46,6 +46,12 @@ from ubuntu software app
 ### install Telegram
 from ubuntu software app(telegram-desktop)
 
+### install Discord
+page https://discord.com/download </br>
+direct link https://discord.com/api/download?platform=linux&format=deb </br>
+double click on .deb file
+click install in the opened window
+
 ### install Krita
 from ubuntu software app
 
