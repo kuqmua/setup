@@ -24,7 +24,10 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Telegram (from ubuntu software app(telegram-desktop))</li>
   <li>Discord</li>
   <li>PgAdmin</li>
-  <li>Robo3t/Compass</li>
+  <li>Compass (
+    page https://www.mongodb.com/try/download/compass
+    direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb)
+  </li>
   <li>Brave (from ubuntu software app)</li>
   <li>Docker</li>
   <li>Docker-compose</li>
