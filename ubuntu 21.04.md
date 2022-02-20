@@ -31,6 +31,7 @@ sudo apt update && sudo apt upgrade -y
   <li>Brave</li>
   <li>VLC</li>
   <li>qBittorrent</li>
+  <li>Anydesk</li>
   <li>Krita</li>
   <li>Firefox</li>
   <li>Gnome Tweaks</li>
@@ -79,6 +80,9 @@ from ubuntu software app
 ### install qBittorrent
 from ubuntu software app
 
+### install Anydesk
+
+
 ### install curl
 sudo apt install curl
 
@@ -97,7 +101,12 @@ double click on .deb file
 click install in the opened window
 
 ### install Gnome shell integration Firefox extenstion
-page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep
+open Firefox
+page https://extensions.gnome.org/#
+
+### install hide top bar gnome extension
+open Firefox
+put switch to "on" inside  https://extensions.gnome.org/extension/545/hide-top-bar/
 
 ### change keyboard binding for language switch
 open gnome tweaks
@@ -137,6 +146,7 @@ add apps
   <li>Telegram</li>
   <li>Discord</li>
   <li>Brave</li>
+  <li>Anydesk</li>
 </ol>
 
 ### sync brave settings
