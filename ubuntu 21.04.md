@@ -32,7 +32,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>MongoDb</li>
   <li>Postgresql</li>
   <li>Firefox (to install gnome extenstions)</li>
-  <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
+  <li>Gnome shell integration Firefox extenstion</li>
   <li>hide top bar gnome extension</li>
   <li>Krita</li>
 </ol>
@@ -59,10 +59,15 @@ sudo apt install pgadmin4  <br/>
 link how to do it with more info (russian)
 https://ruvds.com/ru/helpcenter/postgresql-pgadmin-ubuntu/
 
-### install Compass
-download Compase
-page https://www.mongodb.com/try/download/compass
-direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb
+### install MongoDb Compass
+download MongoDb Compase
+page https://www.mongodb.com/try/download/compass  <br/>
+direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb  <br/>
+double click on .deb file
+click install in the opened window
+
+### install Gnome shell integration Firefox extenstion
+page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep
 
 ### add to favorites
 <ol>
@@ -71,7 +76,7 @@ direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.d
   <li>Telegram</li>
   <li>Discord</li>
   <li>PgAdmin</li>
-  <li>Robo3t</li>
+  <li>MongoDb Compass</li>
   <li>Brave</li>
   <li>Settings</li>
   <li>Screenshot tool</li>
