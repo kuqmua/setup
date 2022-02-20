@@ -149,7 +149,7 @@ open gnome tweaks
 click on autostart
 add apps
 
-### add to autostart
+### add to autostart in gnome tweaks
 <ol>
   <li>VsCode</li>
   <li>Telegram</li>
