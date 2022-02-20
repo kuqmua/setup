@@ -1,10 +1,10 @@
 ### download ubuntu iso
-page https://releases.ubuntu.com/21.04/
-direct link https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso
+page https://releases.ubuntu.com/21.04/ </br>
+direct link https://releases.ubuntu.com/21.04/ubuntu-21.04-desktop-amd64.iso </br>
 
-### download program  to write ubuntu iso on installation flash driv
-page https://rufus.ie/en/
-direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.exe
+### download program  to write ubuntu iso on installation flash drive
+page https://rufus.ie/en/ </br>
+direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.exe </br>
 (maybe old version)
 
 ### remove all unnecessary disks from computer
@@ -18,17 +18,14 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
 ### programs to install
 <ol>
-  <li>VsCode (from ubuntu software app)</li>
-  <li>OBS Studio (from ubuntu software app)</li>
+  <li>VsCode</li>
+  <li>OBS Studio</li>
   <li>Ummy (youtube download manager)</li>
-  <li>Telegram (from ubuntu software app(telegram-desktop))</li>
+  <li>Telegram</li>
   <li>Discord</li>
   <li>PgAdmin</li>
-  <li>Compass (
-    page https://www.mongodb.com/try/download/compass
-    direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb)
-  </li>
-  <li>Brave (from ubuntu software app)</li>
+  <li>Compass</li>
+  <li>Brave</li>
   <li>Docker</li>
   <li>Docker-compose</li>
   <li>Rust</li>
@@ -37,8 +34,35 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Firefox (to install gnome extenstions)</li>
   <li>Gnome shell integration Firefox extenstion https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep</li>
   <li>hide top bar gnome extension</li>
-  <li>Krita (from ubuntu software app)</li>
+  <li>Krita</li>
 </ol>
+
+### install VsCode
+from ubuntu software app
+
+### install OBS Studio
+from ubuntu software app
+
+### install Telegram
+from ubuntu software app(telegram-desktop)
+
+### install Krita
+from ubuntu software app
+
+### install Brave
+from ubuntu software app
+
+### install pgadmin
+curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add  <br/>
+sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'  <br/>
+sudo apt install pgadmin4  <br/>
+link how to do it with more info (russian)
+https://ruvds.com/ru/helpcenter/postgresql-pgadmin-ubuntu/
+
+### install Compass
+download Compase
+page https://www.mongodb.com/try/download/compass
+direct link https://downloads.mongodb.com/compass/mongodb-compass_1.30.1_amd64.deb
 
 ### add to favorites
 <ol>
@@ -81,3 +105,15 @@ headerbar {
   }
 ```
 then restart system
+
+### install cargo expand
+cargo install cargo-expand
+(for procedural macros dev debug)
+example using cargo expand to show generated code only for some mod
+cargo expand some_mod::some_inner_mod::some::inner_inner_mod
+
+### install cargo code Coverage
+installation:
+cargo install cargo-tarpaulin
+usage:
+cargo tarpaulin --ignore-tests
