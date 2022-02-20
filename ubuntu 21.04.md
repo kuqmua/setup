@@ -254,6 +254,23 @@ cargo tarpaulin --ignore-tests <br/>
 
 ### if there is docker-compose file run it one to enable container autostart
 
+### add user in mondodb
+sudo docker ps -a
+sudo docker exec -it MONGO_CONTAINER_ID bash
+("MONGO_CONTAINER_ID (just CONTAINER_ID field with IMAGE mongo)" will be written after "sudo docker ps -a" execution)
+inside container: 
+mongo
+inside mongo cli:
+use admin
+db.createUser(
+  {
+    user: "your_username",
+    pwd: "your_password",
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+  }
+)
+then exit mongo cli and container
+
 ### add connections to mongodb container inside MongoDb compass
 
 ### add connections to postgresql container inside PgAdmin
