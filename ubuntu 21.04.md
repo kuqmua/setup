@@ -38,9 +38,10 @@ sudo apt update && sudo apt upgrade -y
   <li>Gnome shell integration Firefox extenstion</li>
   <li>hide top bar gnome extension</li>
   <li>curl</li>
-  <li>Rust</li>
   <li>Docker</li>
   <li>Docker-compose</li>
+  <li>Git</li>
+  <li>Rust</li>
 </ol>
 
 ### install VsCode
@@ -200,6 +201,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ### install docker-compose on wsl2
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose <br/>
 sudo chmod +x /usr/local/bin/docker-compose <br/>
+
+### install git
+sudo apt install git
 
 ### install rust
 sudo apt install curl <br/>
