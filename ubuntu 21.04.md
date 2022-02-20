@@ -16,6 +16,9 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
 ### remove home folder and trash icons from main window
 
+### update and upgrade all packages
+sudo apt update && sudo apt upgrade -y
+
 ### programs to install
 <ol>
   <li>VsCode</li>
@@ -30,6 +33,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>qBittorrent</li>
   <li>Krita</li>
   <li>Firefox</li>
+  <li>Gnome Tweaks</li>
   <li>Gnome shell integration Firefox extenstion</li>
   <li>hide top bar gnome extension</li>
   <li>curl</li>
@@ -61,6 +65,9 @@ Firefox must be installed on ubuntu by default
 installation reason: install gnome extenstions
 browser gnome extenstion does not work with Brave fo some reason
 but work with Firefox
+
+### install Gnome tweaks
+
 
 ### install Brave
 from ubuntu software app
@@ -102,6 +109,7 @@ page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmej
   <li>Brave</li>
   <li>qBittorrent</li>
   <li>Settings</li>
+  <li>Gnome Tweaks</li>
   <li>Screenshot tool</li>
   <li>Calculator</li>
   <li>Terminal</li>
@@ -157,5 +165,8 @@ installation:
 cargo install cargo-tarpaulin
 usage:
 cargo tarpaulin --ignore-tests
+
+### update and upgrade all packages
+sudo apt update && sudo apt upgrade -y
 
 ### clear trash
