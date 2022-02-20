@@ -127,6 +127,9 @@ choose Alt+Shift
 ### make Brave default browser by default in settings - default apps
 
 ### how to make apps open on start
+open gnome tweaks
+click on autostart
+add apps
 
 ### add to autostart
 <ol>
