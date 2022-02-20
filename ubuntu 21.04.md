@@ -225,17 +225,18 @@ rustup default nightly <br/>
 rustup update //update every week cause nightly <br/>
 source $HOME/.cargo/env <br/>
 source ~/.profile <br/>
+if there is an error "linker `cc` not found", than try again <br/>
+sudo apt install build-essential <br/>
 
 ### install cargo expand
-(maybe only inside rust project folder)
+(maybe only inside rust project folder) <br/>
 cargo install cargo-expand <br/>
 (for procedural macros dev debug) <br/>
 example using cargo expand to show generated code only for some mod <br/>
 cargo expand some_mod::some_inner_mod::some::inner_inner_mod <br/>
 
 ### install cargo code Coverage
-(maybe only inside rust project folder)
-installation:
+(maybe only inside rust project folder) <br/>
 cargo install cargo-tarpaulin
 usage:
 cargo tarpaulin --ignore-tests
