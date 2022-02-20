@@ -99,6 +99,13 @@ click install in the opened window
 ### install Gnome shell integration Firefox extenstion
 page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep
 
+### change keyboard binding for language switch
+open gnome tweaks
+click on keyboard and mouse
+click on additional keyboard settings
+click on switch to different language
+choose Alt+Shift
+
 ### add to favorites
 <ol>
   <li>VsCode</li>
