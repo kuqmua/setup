@@ -159,10 +159,10 @@ add apps
 ### sync brave settings
 
 ### make smaller window ubuntu
-https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars?noredirect=1&lq=1
-touch ~/.config/gtk-3.0/gtk.css
-nano ~/.config/gtk-3.0/gtk.css
-put inside this
+https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars?noredirect=1&lq=1 <br/>
+touch ~/.config/gtk-3.0/gtk.css <br/>
+nano ~/.config/gtk-3.0/gtk.css <br/>
+put inside this <br/>
 ```
 headerbar entry,
 headerbar spinbutton,
