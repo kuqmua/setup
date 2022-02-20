@@ -130,7 +130,7 @@ page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmej
 
 ### sync brave settings
 
-### make smaller window title ubuntu
+### make smaller window ubuntu
 https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars?noredirect=1&lq=1
 touch ~/.config/gtk-3.0/gtk.css
 nano ~/.config/gtk-3.0/gtk.css
