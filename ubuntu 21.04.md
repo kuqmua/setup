@@ -26,6 +26,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>PgAdmin</li>
   <li>Compass</li>
   <li>Brave</li>
+  <li>VLC</li>
   <li>Docker</li>
   <li>Docker-compose</li>
   <li>Rust</li>
@@ -56,6 +57,9 @@ click install in the opened window
 from ubuntu software app
 
 ### install Brave
+from ubuntu software app
+
+### install VLC
 from ubuntu software app
 
 ### install pgadmin
