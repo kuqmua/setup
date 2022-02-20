@@ -198,12 +198,7 @@ then restart system
 
 ### install docker on wsl2
 sudo apt-get update <br/>
-sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg \
-    lsb-release <br/>
+sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release <br/>
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br/>
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
@@ -255,20 +250,20 @@ cargo tarpaulin --ignore-tests <br/>
 ### if there is docker-compose file run it one to enable container autostart
 
 ### add user in mondodb
-sudo docker ps -a
-sudo docker exec -it MONGO_CONTAINER_ID bash
-("MONGO_CONTAINER_ID (just CONTAINER_ID field with IMAGE mongo)" will be written after "sudo docker ps -a" execution)
-inside container: 
-mongo
-inside mongo cli:
-use admin
-db.createUser(
-  {
-    user: "your_username",
-    pwd: "your_password",
-    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
-  }
-)
+sudo docker ps -a <br/>
+sudo docker exec -it MONGO_CONTAINER_ID bash <br/>
+("MONGO_CONTAINER_ID (just CONTAINER_ID field with IMAGE mongo)" will be written after "sudo docker ps -a" execution) <br/>
+inside container:  <br/>
+mongo <br/>
+inside mongo cli: <br/>
+use admin <br/>
+db.createUser( <br/>
+  { <br/>
+    user: "your_username", <br/>
+    pwd: "your_password", <br/>
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ] <br/>
+  } <br/>
+) <br/>
 then exit mongo cli and container
 
 ### add connections to mongodb container inside MongoDb compass
