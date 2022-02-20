@@ -53,6 +53,8 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Krita (from ubuntu software app)</li>
 </ol>
 
+### sync brave settings
+
 ### make smaller window title ubuntu
 https://qastack.ru/unix/276951/how-to-change-the-titlebar-height-in-standard-gtk-apps-and-those-with-headerbars?noredirect=1&lq=1
 touch ~/.config/gtk-3.0/gtk.css
