@@ -29,7 +29,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>VLC</li>
   <li>qBittorrent</li>
   <li>Krita</li>
-   <li>Firefox (to install gnome extenstions)</li>
+  <li>Firefox</li>
   <li>Gnome shell integration Firefox extenstion</li>
   <li>hide top bar gnome extension</li>
   <li>curl</li>
@@ -55,6 +55,12 @@ click install in the opened window
 
 ### install Krita
 from ubuntu software app
+
+### install Firefox
+Firefox must be installed on ubuntu by default
+installation reason: install gnome extenstions
+browser gnome extenstion does not work with Brave fo some reason
+but work with Firefox
 
 ### install Brave
 from ubuntu software app
