@@ -41,7 +41,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Discord</li>
   <li>PgAdmin</li>
   <li>Robo3t</li>
-  <li>Brave</li>
+  <li>Brave (from ubuntu software app)</li>
   <li>Docker</li>
   <li>Docker-compose</li>
   <li>Rust</li>
