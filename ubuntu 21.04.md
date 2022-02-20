@@ -12,6 +12,22 @@ direct link https://github.com/pbatard/rufus/releases/download/v3.17/rufus-3.17.
 ### use guide to write ubuntu iso on installation flash drive
 https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
+### add to favorites
+<ol>
+  <li>VsCode</li>
+  <li>OBS</li>
+  <li>Telegram</li>
+  <li>Discord</li>
+  <li>PgAdmin</li>
+  <li>Robo3t</li>
+  <li>Brave</li>
+  <li>Settings</li>
+  <li>Screenshot tool</li>
+  <li>Calculator</li>
+  <li>Terminal</li>
+  <li>System monitor</li>
+</ol>
+
 ### programs to install
 <ol>
   <li>VsCode</li>
