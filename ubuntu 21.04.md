@@ -257,6 +257,8 @@ cargo tarpaulin --ignore-tests <br/>
 
 ### add connections to postgresql container inside PgAdmin
 
+### make with krita 1x1 black picture and add use it as home screen
+
 ### update and upgrade all packages
 sudo apt update && sudo apt upgrade -y
 
