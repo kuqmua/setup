@@ -71,6 +71,9 @@ from ubuntu software app
 ### install qBittorrent
 from ubuntu software app
 
+### install curl
+sudo apt install curl
+
 ### install pgadmin
 curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add  <br/>
 sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'  <br/>
