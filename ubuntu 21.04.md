@@ -216,12 +216,14 @@ source $HOME/.cargo/env <br/>
 source ~/.profile <br/>
 
 ### install cargo expand
-cargo install cargo-expand
-(for procedural macros dev debug)
-example using cargo expand to show generated code only for some mod
-cargo expand some_mod::some_inner_mod::some::inner_inner_mod
+(maybe only inside rust project folder)
+cargo install cargo-expand <br/>
+(for procedural macros dev debug) <br/>
+example using cargo expand to show generated code only for some mod <br/>
+cargo expand some_mod::some_inner_mod::some::inner_inner_mod <br/>
 
 ### install cargo code Coverage
+(maybe only inside rust project folder)
 installation:
 cargo install cargo-tarpaulin
 usage:
