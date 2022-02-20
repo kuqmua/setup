@@ -63,14 +63,14 @@ click install in the opened window
 from ubuntu software app
 
 ### install Firefox
-Firefox must be installed on ubuntu by default
-installation reason: install gnome extenstions
-browser gnome extenstion does not work with Brave fo some reason
-but work with Firefox
+Firefox must be installed on ubuntu by default </br>
+installation reason: install gnome extenstions </br>
+browser gnome extenstion does not work with Brave </br>
+but work with Firefox </br>
 
 ### install Gnome tweaks
-sudo apt update && sudo apt upgrade -y
-sudo apt install gnome-tweaks -y
+sudo apt update && sudo apt upgrade -y </br>
+sudo apt install gnome-tweaks -y </br>
 
 ### install Brave
 from ubuntu software app
