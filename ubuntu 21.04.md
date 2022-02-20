@@ -27,6 +27,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
   <li>Compass</li>
   <li>Brave</li>
   <li>VLC</li>
+  <li>qBittorrent</li>
   <li>Docker</li>
   <li>Docker-compose</li>
   <li>Rust</li>
@@ -60,6 +61,9 @@ from ubuntu software app
 from ubuntu software app
 
 ### install VLC
+from ubuntu software app
+
+### install qBittorrent
 from ubuntu software app
 
 ### install pgadmin
