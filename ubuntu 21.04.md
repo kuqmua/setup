@@ -144,3 +144,5 @@ installation:
 cargo install cargo-tarpaulin
 usage:
 cargo tarpaulin --ignore-tests
+
+### clear trash
