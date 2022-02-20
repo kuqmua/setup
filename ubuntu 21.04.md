@@ -118,6 +118,8 @@ click on additional keyboard settings
 click on switch to different language
 choose Alt+Shift
 
+### sync VsCode settings/extenstion with github account
+
 ### add to favorites
 <ol>
   <li>VsCode</li>
