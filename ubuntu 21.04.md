@@ -67,7 +67,8 @@ browser gnome extenstion does not work with Brave fo some reason
 but work with Firefox
 
 ### install Gnome tweaks
-
+sudo apt update && sudo apt upgrade -y
+sudo apt install gnome-tweaks -y
 
 ### install Brave
 from ubuntu software app
