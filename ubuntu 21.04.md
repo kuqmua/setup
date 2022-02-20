@@ -34,7 +34,7 @@ https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu
 
 ### programs to install
 <ol>
-  <li>VsCode</li>
+  <li>VsCode (from ubuntu software app)</li>
   <li>OBS</li>
   <li>Ummy (youtube download manager)</li>
   <li>Telegram</li>
