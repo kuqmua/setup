@@ -239,6 +239,10 @@ cargo install cargo-tarpaulin <br/>
 usage: <br/>
 cargo tarpaulin --ignore-tests <br/>
 
+### add connections to mongodb container inside MongoDb compass
+
+### add connections to postgresql container inside PgAdmin
+
 ### update and upgrade all packages
 sudo apt update && sudo apt upgrade -y
 
