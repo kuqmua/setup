@@ -91,6 +91,16 @@ page https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmej
   <li>System monitor</li>
 </ol>
 
+### how to make apps open on start
+
+### add to autostart
+<ol>
+  <li>VsCode</li>
+  <li>Telegram</li>
+  <li>Discord</li>
+  <li>Brave</li>
+</ol>
+
 ### sync brave settings
 
 ### make smaller window title ubuntu
