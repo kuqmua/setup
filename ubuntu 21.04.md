@@ -141,7 +141,8 @@ choose Alt+Shift
   <li>System monitor</li>
 </ol>
 
-### make Brave default browser by default in settings - default apps
+### make Brave default browser
+default in settings - default apps
 
 ### how to make apps open on start
 open gnome tweaks
