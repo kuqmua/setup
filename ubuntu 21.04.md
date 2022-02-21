@@ -246,10 +246,15 @@ cargo install cargo-expand <br/>
 example using cargo expand to show generated code only for some mod <br/>
 cargo expand some_mod::some_inner_mod::some::inner_inner_mod <br/>
 
-### install cargo code Coverage
+### install cargo code coverage
 cargo install cargo-tarpaulin <br/>
 usage: <br/>
 cargo tarpaulin --ignore-tests <br/>
+
+### install find unused dependencies tool
+cargo install cargo-udeps --locked <br/>
+usage: <br/>
+cargo +nightly udeps <br/>
 
 ### if there is docker-compose file run it one to enable container autostart
 
