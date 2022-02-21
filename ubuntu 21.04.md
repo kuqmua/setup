@@ -196,7 +196,7 @@ headerbar {
 ```
 then restart system
 
-### install docker on wsl2
+### install docker
 sudo apt-get update <br/>
 sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release <br/>
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br/>
@@ -206,7 +206,7 @@ echo \
 sudo apt-get update <br/>
 sudo apt-get install docker-ce docker-ce-cli containerd.io <br/>
 
-### install docker-compose on wsl2
+### install docker-compose
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose <br/>
 sudo chmod +x /usr/local/bin/docker-compose <br/>
 
