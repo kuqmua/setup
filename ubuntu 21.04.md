@@ -246,6 +246,9 @@ cargo install cargo-expand <br/>
 example using cargo expand to show generated code only for some mod <br/>
 cargo expand some_mod::some_inner_mod::some::inner_inner_mod <br/>
 
+### install cargo watch
+cargo install cargo-watch <br/>
+
 ### install cargo code coverage
 cargo install cargo-tarpaulin <br/>
 usage: <br/>
